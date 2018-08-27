@@ -1,0 +1,11 @@
+buy C1 A 7 12
+sell C2 C 1 1
+buy C7 A 7 12
+buy C8 A 7 12
+removeCurrency D
+addClient Anna 255
+buy C7 A 7 12
+buy C3 C 1 1
+removeClient C7
+addCurrency rouble
+sell C4 A 70 12
